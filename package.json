@@ -1,6 +1,6 @@
 {
   "name": "flutter-theme-generator",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Flutter Theme Generator is a dynamic tool that simplifies Flutter app theming by generating complete, production-ready color schemes from your brand assets. Upload an image/logo or pick custom colors, and instantly export a tailored ThemeData configuration for seamless integration into your Flutter ",
   "main": "src/index.ts",
   "scripts": {
